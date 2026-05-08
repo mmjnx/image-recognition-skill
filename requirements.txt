@@ -1,0 +1,11 @@
+# 基础依赖
+pillow>=10.0.0
+
+# OCR 引擎（三选一，推荐 PaddleOCR 用于中文）
+# paddleocr>=2.7.0
+# easyocr>=1.7.0
+# pytesseract>=0.3.10
+
+# 图像描述 API（按需安装）
+# openai>=1.0.0
+# requests>=2.31.0
